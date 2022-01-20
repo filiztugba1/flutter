@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "D:\\filiz\\flutter\\asenkron\\asenkron_programlama.dart"
+            "program": "D:\\filiz\\flutter\\asenkron\\async_await.dart"
         }
     ],
 }
