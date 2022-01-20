@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "D:\\filiz\\flutter\\asenkron\\async_await.dart"
+            "program": "D:\\filiz\\flutter\\asenkron\\then_bolum_sonu_ornek.dart"
         }
     ],
 }
