@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program":"asenkron_programlama.dart"
+            "program":"/bolum5/factory_kurucular.dart"
         }
     ],
   
