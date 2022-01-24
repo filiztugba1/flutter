@@ -20,4 +20,5 @@ Future<Map<String, dynamic>> idyeGoreUserGetir(int id) {
   return Future<Map<String, dynamic>>.delayed(Duration(seconds: 2), () {
     return {'username': 'filizcurukcu', 'id': id};
   });
+  
 }
